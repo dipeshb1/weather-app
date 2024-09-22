@@ -1,0 +1,10 @@
+.header {
+  font-size: 2.4rem;
+  color: rgb(16, 16, 16);
+}
+
+@media screen and (max-width: 37.5rem) {
+  .header {
+    font-size: 1.4rem;
+  }
+}
